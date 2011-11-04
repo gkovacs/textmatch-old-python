@@ -1,0 +1,30 @@
+
+
+
+#: ../capplets/keybindings/gnome-keybinding-properties.c:1171
+#, c-format
+msgid ""
+"The shortcut \"%s\" cannot be used because it will become impossible to type "
+"using this key.\n"
+"Please try with a key such as Control, Alt or Shift at the same time."
+msgstr ""
+"No se puede usar la combinación de teclas «%s» porque se haría imposible "
+"escribir usando esta tecla.\n"
+"Por favor, inténtelo con una tecla como Control, Alt o Mayús. al mismo "
+"tiempo."
+
+#: ../capplets/keybindings/gnome-keybinding-properties.c:1201
+#, c-format
+msgid ""
+"The shortcut \"%s\" is already used for\n"
+"\"%s\""
+msgstr ""
+"La combinación «%s» ya se está usando para\n"
+"«%s»"
+
+#: ../capplets/keybindings/gnome-keybinding-properties.c:1207
+#, c-format
+msgid ""
+"If you reassign the shortcut to \"%s\", the \"%s\" shortcut will be disabled."
+msgstr "Si reasigna la combinación a «%s» se desactivará la combinación «%s»."
+

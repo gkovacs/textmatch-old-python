@@ -1,0 +1,204 @@
+# translation of gnome-control-center.HEAD.po to Español
+# Copyright © 1999-2002, 2006, 2007, 2008 Free Software Foundation, Inc.
+# This file is distributed under the same license as the gnome-control-center package.
+#
+# Pablo Saratxaga <srtxg@chanae.alphanet.ch>, 1998-2001.
+# Carlos Perelló Marín <carlos@gnome-db.org>, 2001.
+# Héctor García Álvarez <hector@scouts-es.org>, 2001.
+# Germán Poo Caamaño <gpoo@ubiobio.cl>, 2002 (Revisor).
+#. Translators: this is the gesture to trigger/choose the click type.
+#. Don't include the prefix "gesture|" in the translation.
+#: ../capplets/mouse/gnome-mouse-accessibility.c:89
+msgid "gesture|Move left"
+msgstr "Mover a la izquierda"
+
+#. Translators: this is the gesture to trigger/choose the click type.
+#. Don't include the prefix "gesture|" in the translation.
+#: ../capplets/mouse/gnome-mouse-accessibility.c:94
+msgid "gesture|Move right"
+msgstr "Mover a la derecha"
+
+#. Translators: this is the gesture to trigger/choose the click type.
+#. Don't include the prefix "gesture|" in the translation.
+#: ../capplets/mouse/gnome-mouse-accessibility.c:99
+msgid "gesture|Move up"
+msgstr "Mover arriba"
+
+#. Translators: this is the gesture to trigger/choose the click type.
+#. Don't include the prefix "gesture|" in the translation.
+#: ../capplets/mouse/gnome-mouse-accessibility.c:104
+msgid "gesture|Move down"
+msgstr "Mover abajo"
+
+#. Translators: this is the gesture to trigger/choose the click type.
+#. Don't include the prefix "gesture|" in the translation.
+#: ../capplets/mouse/gnome-mouse-accessibility.c:109
+msgid "gesture|Disabled"
+msgstr "Desactivado"
+
+#. TRANSLATORS: don't translate the terms in brackets
+#: ../capplets/mouse/gnome-mouse-properties.c:590
+msgid "Specify the name of the page to show (general|accessibility)"
+msgstr ""
+"Especifique el nombre de la página para mostrar (general|accessibility)"
+
+#: ../capplets/mouse/gnome-mouse-properties.c:595
+msgid "- GNOME Mouse Preferences"
+msgstr "- Preferencias del ratón de GNOME"
+
+#: ../capplets/mouse/gnome-mouse-properties.ui.h:2
+msgid "Choose type of click _beforehand"
+msgstr "Elegir el tipo de pulsación de an_temano"
+
+#: ../capplets/mouse/gnome-mouse-properties.ui.h:3
+msgid "Choose type of click with mo_use gestures"
+msgstr "Elegir el tipo de pulsación con gestos del rató_n"
+
+#: ../capplets/mouse/gnome-mouse-properties.ui.h:6
+msgid "D_ouble click:"
+msgstr "Pulsación d_oble:"
+
+#: ../capplets/mouse/gnome-mouse-properties.ui.h:7
+msgid "D_rag click:"
+msgstr "Pulsación de _arrastre:"
+
+#: ../capplets/mouse/gnome-mouse-properties.ui.h:8
+msgid "Disable _touchpad while typing"
+msgstr "Desactivar el _touchpad al escribir"
+
+#: ../capplets/mouse/gnome-mouse-properties.ui.h:9
+msgid "Double-Click Timeout"
+msgstr "Tiempo de espera de la pulsación doble"
+
+#: ../capplets/mouse/gnome-mouse-properties.ui.h:10
+msgid "Drag and Drop"
+msgstr "Arrastrar y soltar"
+
+#: ../capplets/mouse/gnome-mouse-properties.ui.h:11
+msgid "Dwell Click"
+msgstr "Pulsación al posarse"
+
+#: ../capplets/mouse/gnome-mouse-properties.ui.h:12
+msgid "Enable _mouse clicks with touchpad"
+msgstr "Activar pul_saciones del ratón con el touchpad"
+
+#: ../capplets/mouse/gnome-mouse-properties.ui.h:13
+msgid "Enable h_orizontal scrolling"
+msgstr "Activar desplazamiento _horizontal"
+
+#: ../capplets/mouse/gnome-mouse-properties.ui.h:16
+msgid "High"
+msgstr "Alta"
+
+#: ../capplets/mouse/gnome-mouse-properties.ui.h:18
+msgid "Locate Pointer"
+msgstr "Localizar puntero"
+
+#: ../capplets/mouse/gnome-mouse-properties.ui.h:20
+msgid "Low"
+msgstr "Baja"
+
+#: ../capplets/mouse/gnome-mouse-properties.ui.h:21
+msgid "Mouse Orientation"
+msgstr "Orientación del ratón"
+
+#: ../capplets/mouse/gnome-mouse-properties.ui.h:22
+msgid "Mouse Preferences"
+msgstr "Preferencias del ratón"
+
+#: ../capplets/mouse/gnome-mouse-properties.ui.h:23
+msgid "Pointer Speed"
+msgstr "Velocidad del puntero"
+
+#: ../capplets/mouse/gnome-mouse-properties.ui.h:24
+msgid "Scrolling"
+msgstr "Desplazamiento"
+
+#: ../capplets/mouse/gnome-mouse-properties.ui.h:25
+msgid "Seco_ndary click:"
+msgstr "Pulsación sec_undaria:"
+
+#: ../capplets/mouse/gnome-mouse-properties.ui.h:26
+msgid "Sh_ow position of pointer when the Control key is pressed"
+msgstr "M_ostrar la posición del puntero al pulsar la tecla Control"
+
+#: ../capplets/mouse/gnome-mouse-properties.ui.h:28
+msgid "Show click type _window"
+msgstr "Mostrar la _ventana del tipo de pulsación"
+
+#: ../capplets/mouse/gnome-mouse-properties.ui.h:29
+msgid "Simulated Secondary Click"
+msgstr "Pulsación secundaria simulada"
+
+#: ../capplets/mouse/gnome-mouse-properties.ui.h:32
+msgid "Thr_eshold:"
+msgstr "U_mbral:"
+
+#: ../capplets/mouse/gnome-mouse-properties.ui.h:33
+msgid "To test your double-click settings, try to double-click on the light bulb."
+msgstr ""
+"Para probar sus ajustes de pulsación doble, pruebe a pulsar dos veces sobre "
+"la bombilla."
+
+
+#: ../capplets/mouse/gnome-mouse-properties.ui.h:34
+msgid "Touchpad"
+msgstr "Touchpad"
+
+#: ../capplets/mouse/gnome-mouse-properties.ui.h:35
+msgid "Two-_finger scrolling"
+msgstr "Despla_zamiento con dos dedos"
+
+#: ../capplets/mouse/gnome-mouse-properties.ui.h:36
+msgid "You can also use the Dwell Click panel applet to choose the click type."
+msgstr ""
+"También puede usar el panel de la miniaplicación Pulsación al posarse para "
+"elegir el tipo de pulsación."
+
+#: ../capplets/mouse/gnome-mouse-properties.ui.h:39
+msgid "_Disabled"
+msgstr "_Desactivado"
+
+#: ../capplets/mouse/gnome-mouse-properties.ui.h:40
+msgid "_Edge scrolling"
+msgstr "Desplazamiento en el _borde"
+
+#: ../capplets/mouse/gnome-mouse-properties.ui.h:41
+msgid "_Initiate click when stopping pointer movement"
+msgstr "_Iniciar la pulsación cuando se pare el movimiento del puntero"
+
+#: ../capplets/mouse/gnome-mouse-properties.ui.h:42
+msgid "_Left-handed"
+msgstr "_Zurdo"
+
+#: ../capplets/mouse/gnome-mouse-properties.ui.h:43
+msgid "_Motion threshold:"
+msgstr "Umbral de _movimiento:"
+
+#: ../capplets/mouse/gnome-mouse-properties.ui.h:44
+msgid "_Right-handed"
+msgstr "_Diestro"
+
+#: ../capplets/keyboard/gnome-keyboard-properties-dialog.ui.h:34
+#: ../capplets/mouse/gnome-mouse-properties.ui.h:37
+msgid "_Acceleration:"
+msgstr "_Aceleración:"
+
+#: ../capplets/mouse/gnome-mouse-properties.ui.h:45
+msgid "_Sensitivity:"
+msgstr "_Sensibilidad:"
+
+#: ../capplets/mouse/gnome-mouse-properties.ui.h:46
+msgid "_Single click:"
+msgstr "Pulsación _simple:"
+
+#: ../capplets/mouse/gnome-mouse-properties.ui.h:47
+msgid "_Timeout:"
+msgstr "_Tiempo de espera:"
+
+#: ../capplets/mouse/gnome-mouse-properties.ui.h:48
+msgid "_Trigger secondary click by holding down the primary button"
+msgstr ""
+"_Disparar la pulsación secundaria al mantener pulsado el botón primario"
+
+
